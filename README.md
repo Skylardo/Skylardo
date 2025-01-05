@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on Timterests.com and database obfuscation techniques.
+- 🌱 I’m currently learning Golang and soon-to-be compilers.
+- 📫 How to reach me: timscott@timterests.com
 <!--
 **Skylardo/Skylardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
